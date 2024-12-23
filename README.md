@@ -1,6 +1,6 @@
 # Exploring-Research-Papers
 
-#1.  SPIQA: Scientific Paper Image Question Answering Dataset
+# 1.  SPIQA: Scientific Paper Image Question Answering Dataset
 
 The release of the **SPIQA (Scientific Paper Image Question Answering)** dataset marks a significant advancement in how we interact with scientific literature.
 
